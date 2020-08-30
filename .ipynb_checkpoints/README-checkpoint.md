@@ -34,11 +34,6 @@
     - GBDT和随机森林的区别
     - item流行度在推荐系统中的应用
     - Wide&Deep模型对movielens进行评分预测
-- [lesson6](./MQ/lesson-6)
-    - 什么是近似最近邻查找
-    - minhash值相同的概率等于这两个集合的Jaccard相似度
-    - SimHash在计算文档相似度的作用
-    - 使用MinHashLSHForest对微博新闻句子进行检索
 
 ## [HX](./HX)
 - [lesson1](./HX/lesson-1)
