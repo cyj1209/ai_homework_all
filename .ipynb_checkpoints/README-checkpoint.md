@@ -34,6 +34,11 @@
     - GBDT和随机森林的区别
     - item流行度在推荐系统中的应用
     - Wide&Deep模型对movielens进行评分预测
+- [lesson6](./MQ/lesson-6)
+    - 什么是近似最近邻查找
+    - minhash值相同的概率等于这两个集合的Jaccard相似度
+    - SimHash在计算文档相似度的作用
+    - 使用MinHashLSHForest对微博新闻句子进行检索
 
 ## [HX](./HX)
 - [lesson1](./HX/lesson-1)
@@ -64,6 +69,12 @@
     - libfm 对movielens进行评分预测
     - DeepFM 对movielens进行评分预测
     - KNNBasic, KNNWithMeans, KNNWithZScore, 对movielens进行评分预测
-- [lessson6](./HX/lesson-6)
+- [lesson6](./HX/lesson-6)
     - XGBoost与GBDT的区别
     - 男女声音识别
+- [lesson7](./HX/lesson-7)
+    - 反向传播中的链式法则
+    - 激活函数
+    - loss不变 原因
+    - boston房价预测
+    - 移动推荐系统数据可视化

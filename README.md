@@ -69,6 +69,12 @@
     - libfm 对movielens进行评分预测
     - DeepFM 对movielens进行评分预测
     - KNNBasic, KNNWithMeans, KNNWithZScore, 对movielens进行评分预测
-- [lessson6](./HX/lesson-6)
+- [lesson6](./HX/lesson-6)
     - XGBoost与GBDT的区别
     - 男女声音识别
+- [lesson7](./HX/lesson-7)
+    - 反向传播中的链式法则
+    - 激活函数
+    - loss不变 原因
+    - boston房价预测
+    - 移动推荐系统数据可视化
