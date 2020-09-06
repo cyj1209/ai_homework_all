@@ -1,4 +1,3 @@
-[TOC]
 # AI Homework
 ##  [MQ](./MQ)
 - [lesson1](./MQ/lesson-1)
