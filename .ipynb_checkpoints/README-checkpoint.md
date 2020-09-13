@@ -38,6 +38,15 @@
     - minhash值相同的概率等于这两个集合的Jaccard相似度
     - SimHash在计算文档相似度的作用
     - 使用MinHashLSHForest对微博新闻句子进行检索
+- [lesson7](./MQ/lesson-7)
+    - 参数共享
+    - batch normalization
+    - dropout
+    - 对CIFAR-10进行分类
+- [lesson8](./MQ/lesson-7)
+    - 股票预测过拟合
+    - Prophet与ARMA/ARIMA比较
+    - JetRail高铁的乘客数量预测
 
 ## [HX](./HX)
 - [lesson1](./HX/lesson-1)
